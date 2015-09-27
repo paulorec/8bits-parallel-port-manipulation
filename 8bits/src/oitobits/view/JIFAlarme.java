@@ -3,15 +3,18 @@
  * and open the template in the editor.
  */
 
-package oitobits.visao;
+package oitobits.view;
 import java.awt.event.ActionEvent;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+
 import javax.swing.*;
+
 import java.awt.*;
 import java.awt.event.ActionListener;
-import oitobits.controlador.Fachada;
-import oitobits.modelo.Alarme;
+
+import oitobits.controller.Fachada;
+import oitobits.model.Alarme;
 
 class JIFAlarme extends JInternalFrame
 {

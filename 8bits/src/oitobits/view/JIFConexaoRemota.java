@@ -3,24 +3,22 @@
  * and open the template in the editor.
  */
 
-package oitobits.visao;
+package oitobits.view;
 import javax.swing.*;
 import java.awt.*;
 
-class JIFCamera extends JInternalFrame
+class JIFConexaoRemota extends JInternalFrame
 {
- public JIFCamera()
+ public JIFConexaoRemota()
  {
-  super("Camera");
+  super("Conexao Remota");
 
   Container container = this.getContentPane();
-  container.setLayout(new GridLayout(0,1));
+  container.setLayout(new GridLayout(0,3));
 
-  JPanel painel = new CapturaFoto();
-  painel.setBackground(Color.BLACK);
-  painel.setSize(200,200);
-  container.add(painel);
-  //container.add(new JLabel("Aguardando conexao..."));
+  container.add(new JLabel("IP"));
+  container.add(new JTextField());
+  container.add(new JButton("Conectar"));
   this.setVisible(true);
   this.setResizable(true);
   this.setMaximizable(true);

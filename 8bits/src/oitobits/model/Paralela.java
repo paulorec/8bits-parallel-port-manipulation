@@ -3,10 +3,10 @@
  * and open the template in the editor.
  */
 
-package oitobits.modelo;
+package oitobits.model;
 
-import oitobits.controlador.Fachada;
-import oitobits.modelo.ConexaoParalela;
+import oitobits.controller.Fachada;
+import oitobits.model.ConexaoParalela;
 
 /**
  *

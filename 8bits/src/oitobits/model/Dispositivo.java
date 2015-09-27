@@ -3,9 +3,9 @@
  * and open the template in the editor.
  */
 
-package oitobits.modelo;
+package oitobits.model;
 
-import oitobits.controlador.*;
+import oitobits.controller.*;
 
 /**
  *

@@ -3,14 +3,17 @@
  * and open the template in the editor.
  */
 
-package oitobits.visao;
+package oitobits.view;
 
 import java.awt.event.ActionEvent;
+
 import javax.swing.*;
+
 import java.awt.*;
 import java.awt.event.ActionListener;
-import oitobits.controlador.ControleOpEmLoop;
-import oitobits.modelo.Paralela;
+
+import oitobits.controller.ControleOpEmLoop;
+import oitobits.model.Paralela;
 
 /**
  *

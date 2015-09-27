@@ -3,13 +3,15 @@
  * and open the template in the editor.
  */
 
-package oitobits.controlador;
+package oitobits.controller;
 
-import oitobits.modelo.Paralela;
+import oitobits.model.ConexaoParalela;
+import oitobits.model.Paralela;
+
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import oitobits.modelo.ConexaoParalela;
-import oitobits.visao.JanelaOpEmLoop;
+
+import oitobits.view.JanelaOpEmLoop;
 
 /**
  *

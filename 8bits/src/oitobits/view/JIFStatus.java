@@ -3,13 +3,15 @@
  * and open the template in the editor.
  */
 
-package oitobits.visao;
+package oitobits.view;
 import javax.swing.*;
+
 import java.awt.*;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-import oitobits.modelo.Paralela;
+
+import oitobits.model.Paralela;
 
 class JIFStatus extends JInternalFrame
 {

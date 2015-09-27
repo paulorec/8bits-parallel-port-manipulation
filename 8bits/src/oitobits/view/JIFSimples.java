@@ -3,13 +3,16 @@
  * and open the template in the editor.
  */
 
-package oitobits.visao;
+package oitobits.view;
 import java.awt.event.ActionEvent;
+
 import javax.swing.*;
+
 import java.awt.*;
 import java.awt.event.ActionListener;
-import oitobits.modelo.Dispositivo;
-import oitobits.modelo.Paralela;
+
+import oitobits.model.Dispositivo;
+import oitobits.model.Paralela;
 
 class JIFSimples extends JInternalFrame
 {

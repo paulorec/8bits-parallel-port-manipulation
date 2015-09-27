@@ -3,14 +3,15 @@
  * and open the template in the editor.
  */
 
-package oitobits.controlador;
+package oitobits.controller;
 
 import javax.swing.JOptionPane;
 import javax.swing.UIManager;
-import oitobits.modelo.Dispositivo;
-import oitobits.modelo.Paralela;
-import oitobits.modelo.SMS;
-import oitobits.visao.JanelaDesktop;
+
+import oitobits.model.Dispositivo;
+import oitobits.model.Paralela;
+import oitobits.model.SMS;
+import oitobits.view.JanelaDesktop;
 
 /**
  *

@@ -1,13 +1,16 @@
-package oitobits.visao;
+package oitobits.view;
 
 import java.awt.event.ActionEvent;
+
 import javax.swing.*;
+
 import java.awt.*;
 import java.awt.event.ActionListener;
 import java.beans.PropertyVetoException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import oitobits.controlador.Fachada;
+
+import oitobits.controller.Fachada;
 
 /**
  *

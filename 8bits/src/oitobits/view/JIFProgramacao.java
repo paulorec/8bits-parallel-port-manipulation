@@ -3,7 +3,7 @@
  * and open the template in the editor.
  */
 
-package oitobits.visao;
+package oitobits.view;
 import java.beans.PropertyVetoException;
 import java.util.logging.Level;
 import java.util.logging.Logger;

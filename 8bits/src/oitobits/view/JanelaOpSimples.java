@@ -3,7 +3,7 @@
  * and open the template in the editor.
  */
 
-package oitobits.visao;
+package oitobits.view;
 
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -12,8 +12,10 @@ import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+
 import javax.swing.*;
-import oitobits.modelo.Paralela;
+
+import oitobits.model.Paralela;
 
 
 /**
