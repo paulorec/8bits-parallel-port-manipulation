@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : configuracoes.xml
+    Created on : October 18, 2009, 10:36 PM
+    Author     : paulo
+    Description:
+        Purpose of the document follows.
+-->
+<paralela>
+    <porta>0x378</porta>
+    <!-- Dispositivos conectados a porta paralela-->
+ <dispositivo>
+  <nome>Dispositivo 1</nome>
+  <pino>1</pino>
+ </dispositivo>
+ <dispositivo>
+  <nome>Dispositivo 2</nome>
+  <pino>2</pino>
+ </dispositivo>
+ <dispositivo>
+  <nome>Dispositivo 3</nome>
+  <pino>3</pino>
+ </dispositivo>
+ <dispositivo>
+  <nome>Dispositivo 4</nome>
+  <pino>4</pino>
+ </dispositivo>
+ <dispositivo>
+  <nome>Dispositivo 5</nome>
+  <pino>5</pino>
+ </dispositivo>
+ <dispositivo>
+  <nome>Dispositivo 6</nome>
+  <pino>6</pino>
+ </dispositivo>
+ <dispositivo>
+  <nome>Dispositivo 7</nome>
+  <pino>7</pino>
+ </dispositivo>
+ <dispositivo>
+  <nome>Dispositivo 8</nome>
+  <pino>8</pino>
+ </dispositivo>
+</paralela>
